@@ -1,0 +1,36 @@
+user_id,name,email,department,manager,hire_date,termination_date,employment_status
+1,John Smith,jsmith@company.com,Trading,Sarah Chen,2020-01-15,,Active
+2,Emily Davis,edavis@company.com,Operations,Michael Wong,2019-05-20,,Active
+3,Michael Wong,mwong@company.com,Operations,Sarah Chen,2018-03-10,,Active
+4,Sarah Chen,schen@company.com,Executive,CEO,2017-01-05,,Active
+5,Robert Johnson,rjohnson@company.com,Finance,David Kim,2021-02-14,,Active
+6,Lisa Anderson,landerson@company.com,Trading,Sarah Chen,2020-08-22,,Active
+7,David Kim,dkim@company.com,Finance,Sarah Chen,2019-11-30,,Active
+8,Jennifer Lee,jlee@company.com,Compliance,David Kim,2021-06-01,,Active
+9,James Wilson,jwilson@company.com,IT,Michael Wong,2020-03-15,,Active
+10,Maria Garcia,mgarcia@company.com,Operations,Michael Wong,2021-01-10,,Active
+11,Thomas Brown,tbrown@company.com,Trading,Sarah Chen,2018-07-20,,Active
+12,Patricia Martinez,pmartinez@company.com,Finance,David Kim,2019-09-05,,Active
+13,Christopher Taylor,ctaylor@company.com,IT,Michael Wong,2020-11-12,,Active
+14,Nancy White,nwhite@company.com,Compliance,David Kim,2021-04-18,,Active
+15,Daniel Harris,dharris@company.com,Trading,Sarah Chen,2019-02-28,,Active
+16,Karen Clark,kclark@company.com,Operations,Michael Wong,2020-05-06,,Active
+17,Steven Lewis,slewis@company.com,Finance,David Kim,2021-08-14,,Active
+18,Betty Walker,bwalker@company.com,Compliance,David Kim,2019-10-22,,Active
+19,Edward Hall,ehall@company.com,IT,Michael Wong,2020-12-03,,Active
+20,Sandra Allen,sallen@company.com,Trading,Sarah Chen,2021-03-09,,Active
+21,Brian Young,byoung@company.com,Finance,David Kim,2022-01-15,,Active
+22,Ashley King,aking@company.com,Operations,Michael Wong,2022-02-20,,Active
+23,Kevin Scott,kscott@company.com,Trading,Sarah Chen,2022-03-25,,Active
+24,Michelle Green,mgreen@company.com,Compliance,David Kim,2022-04-30,,Active
+25,George Adams,gadams@company.com,IT,Michael Wong,2022-05-12,,Active
+26,Laura Baker,lbaker@company.com,Trading,Sarah Chen,2015-06-18,,Active
+27,Jason Nelson,jnelson@company.com,Finance,David Kim,2016-07-22,,Active
+28,Deborah Carter,dcarter@company.com,Operations,Michael Wong,2017-08-26,,Active
+29,Gary Mitchell,dmitchell@company.com,Compliance,David Kim,2018-09-30,,Active
+30,Cynthia Perez,cperez@company.com,IT,Michael Wong,2019-10-15,,Active
+31,Former Employee 1,femployee1@company.com,Trading,Sarah Chen,2019-01-10,2024-12-15,Terminated
+32,Former Employee 2,femployee2@company.com,Finance,David Kim,2020-03-20,2025-01-20,Terminated
+33,Former Employee 3,femployee3@company.com,Operations,Michael Wong,2021-05-15,2025-02-01,Terminated
+34,Former Employee 4,femployee4@company.com,IT,Michael Wong,2020-07-10,2024-11-30,Terminated
+35,Former Employee 5,femployee5@company.com,Compliance,David Kim,2019-09-05,2025-01-15,Terminated

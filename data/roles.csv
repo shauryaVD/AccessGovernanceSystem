@@ -1,0 +1,16 @@
+role_id,role_name,description,risk_level
+1,Trader,Can execute trades,High
+2,Trade_Approver,Can approve trades,High
+3,Payment_Initiator,Can initiate payments,High
+4,Payment_Approver,Can approve payments,High
+5,Account_Creator,Can create client accounts,Medium
+6,Account_Approver,Can approve new accounts,Medium
+7,Financial_Reporter,Can generate financial reports,Medium
+8,Auditor,Can audit all transactions,High
+9,System_Admin,Full system access,Critical
+10,Report_Viewer,Read-only report access,Low
+11,Data_Analyst,Can query databases,Medium
+12,Compliance_Officer,Compliance oversight,High
+13,Risk_Manager,Risk management,High
+14,Client_Support,Client service access,Low
+15,Operations_Manager,Operations oversight,Medium
